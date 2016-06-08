@@ -1,0 +1,12 @@
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.exe
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.pdb
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\ResolveAssemblyReference.cache
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV_Assig9.frmBioMedic.resources
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV_Assig9.Properties.Resources.resources
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.csproj.GenerateResource.Cache
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.exe
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.pdb
+D:\FPTAptech\2.Sem3\thuchanh\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.exe.config
+D:\FPTAptech\2.Sem3\1.Winform\thuchanh\PhungLV-Assig9\PhungLV-Assig9\bin\Debug\PhungLV-Assig9.exe.config
+D:\FPTAptech\2.Sem3\1.Winform\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.exe
+D:\FPTAptech\2.Sem3\1.Winform\thuchanh\PhungLV-Assig9\PhungLV-Assig9\obj\Debug\PhungLV-Assig9.pdb
